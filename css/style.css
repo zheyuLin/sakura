@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond|Source+Code+Pro");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+
+	font-family: 'EB Garamond', serif;
+	font-size: 18px;
+}
+
+h1,h2,h3{
+	font-family: 'Source Code Pro', monospace;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
